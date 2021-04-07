@@ -6,6 +6,6 @@ end
 def orders
   render :layout => "order_administration"
 end
-def layout 
+def layout
 end
 end
